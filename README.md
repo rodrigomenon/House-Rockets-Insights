@@ -26,10 +26,11 @@ The business team informed that the main difficulty is to determine which proper
 
 ## Solution Planning
 
-### Final product:
-Creation of a web application with the availability of two reports:
+### Final product: 
+Creation of a [web application](https://house-rockets-dashboard.herokuapp.com/) with the availability of two reports:
   - Report 1: Real estate purchase recommendation for a specified amount
   - Report 2: Recommendation for the sale of the property with a determined date and value
+ 
         
 
 ### Tools:
