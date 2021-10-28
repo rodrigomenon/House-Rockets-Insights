@@ -1,5 +1,5 @@
 # House Rockets Project
-![image](data/vector-real-estate-for-sale.jpg)
+![image](vector-real-estate-for-sale.jpg)
 
 House Rockets is a company whose business model is based on buying and selling real estate, and its objective is to find good deals within an available portfolio, which is to find houses with low prices, in great locations and with great potential for reselling at a higher price, making the maximum profit possible.
 
